@@ -20,12 +20,10 @@ body {
     padding: 20px 100px;
 }
 
-.holder .text {
-    text-align: center;
-}
 
 .holder .text h1 {
     font-size: 3rem;
+    text-align: center;
 }
 
 .holder .text h1 p {}
